@@ -1,0 +1,8 @@
+{
+  "name": "ps-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/miltinmolecule/ps-react.git",
+  "author": "miltinmolecule <miltindev@gmail.com>",
+  "license": "MIT"
+}
